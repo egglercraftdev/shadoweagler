@@ -1,4 +1,4 @@
-#SHADOW CLIENT WEBSITE
+# SHADOW CLIENT WEBSITE
 
-##Made by EymenWSMC
+## Made by EymenWSMC
 ![screenshot](https://raw.githubusercontent.com/egglercraftdev/shadoweagler/main/image.png)
